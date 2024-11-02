@@ -30,7 +30,7 @@ MonoBehaviour:
     Luck: 30
     difficultyMod: 30
     LevelMod: 30
-  Prefab: {fileID: 6082700357839050000, guid: acc19ce06e982ca49881cff39cee43f4, type: 3}
+  Prefab: {fileID: 6082700357839050000, guid: fd88540627192584a84d8420ca7627e1, type: 3}
   PhysicsInfo:
     BelongsTo:
       Category00: 0
@@ -115,15 +115,15 @@ MonoBehaviour:
   Combo: {fileID: 11400000, guid: 78bc12d66e2c6d44e9474545435cb293, type: 2}
   Equipment:
     EquippedWeapons:
-    - {fileID: 11400000, guid: 0d0acd3bd1c799444be09c9ecdfd4218, type: 2}
-    - {fileID: 11400000, guid: a23be05c683344c7db556387b7163800, type: 2}
+    - {fileID: 0}
+    - {fileID: 0}
     EquippedArmors: []
     EquippedAbilites:
-    - {fileID: 11400000, guid: b36289e5e6ea4644296a69639d0e57ba, type: 2}
-    - {fileID: 11400000, guid: 4c6467a472903aa4ea0ba41ee5b70b21, type: 2}
-    - {fileID: 11400000, guid: 8697f3e52e1e86f4ba80fea08c5fa7b1, type: 2}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
   Inventory:
     ItemsInInventory:
-    - Item: {fileID: 11400000, guid: 30221ae827a8c3e4fb342bfb4557b9c1, type: 2}
+    - Item: {fileID: 0}
       Count: 1
     MaxInventorySize: 100
