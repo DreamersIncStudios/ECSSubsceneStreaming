@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ad2cb8341af211419b23f6413f8ea54
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Scenarios/Prefabs/Tank.prefab
+  uploadId: 700319

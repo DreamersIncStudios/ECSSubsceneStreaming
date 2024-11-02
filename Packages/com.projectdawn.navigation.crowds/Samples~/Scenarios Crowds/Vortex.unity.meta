@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4742a6942d579e74686cdf85a84346c4
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Vortex.unity
+  uploadId: 687100

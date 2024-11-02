@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 50a29197db7fe324d970312d4d11d763
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation/NavMesh/NavMeshPath.cs
+  uploadId: 700319

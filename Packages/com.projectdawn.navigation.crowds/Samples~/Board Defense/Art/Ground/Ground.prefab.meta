@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45c7b660beed59d4289b9d259301dca1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ground/Ground.prefab
+  uploadId: 687100

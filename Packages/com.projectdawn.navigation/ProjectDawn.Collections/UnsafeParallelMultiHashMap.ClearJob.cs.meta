@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 49191d05c880c044da43a9302fa806ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Collections/UnsafeParallelMultiHashMap.ClearJob.cs
+  uploadId: 700319

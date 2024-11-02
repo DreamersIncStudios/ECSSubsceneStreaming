@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 18d907f2c9e9f0941934205f103dfdca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation/SystemGroups/AgentSteeringSystemGroup.cs
+  uploadId: 700319

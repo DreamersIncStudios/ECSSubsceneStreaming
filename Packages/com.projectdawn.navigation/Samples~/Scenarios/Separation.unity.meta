@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 607727c1dbdb79a4f8d1067d2c530b8e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Scenarios/Separation.unity
+  uploadId: 700319

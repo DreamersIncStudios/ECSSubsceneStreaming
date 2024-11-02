@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d9affd1b6c66398449488e2e22acfc57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation/SmartStop/AgentSmartStopSystem.cs
+  uploadId: 700319

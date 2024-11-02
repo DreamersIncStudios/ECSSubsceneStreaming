@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 14e49f4b9f5c5944e98f01571e07c1da
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Scenarios/Circle Target
+    Reciprocal.unity
+  uploadId: 700319

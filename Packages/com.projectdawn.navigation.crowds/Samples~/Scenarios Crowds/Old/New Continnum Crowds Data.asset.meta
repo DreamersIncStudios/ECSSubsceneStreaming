@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 54d78565f1bc0474ba1d21f99774038f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Old/New
+    Continnum Crowds Data.asset
+  uploadId: 687100

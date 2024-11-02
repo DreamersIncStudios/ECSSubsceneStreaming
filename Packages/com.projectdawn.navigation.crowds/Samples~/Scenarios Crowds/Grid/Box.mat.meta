@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1101e94e291841c44a976be6067ac01b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Grid/Box.mat
+  uploadId: 687100

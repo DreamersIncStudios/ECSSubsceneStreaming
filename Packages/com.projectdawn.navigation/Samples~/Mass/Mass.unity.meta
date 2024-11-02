@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 785f90dca01be00448aedd3dc2198bda
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Mass/Mass.unity
+  uploadId: 700319

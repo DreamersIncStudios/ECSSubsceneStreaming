@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c6534a842ad6424f84548e1f75deb47
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation.Astar/ProjectDawn.Navigation.Astar.asmdef
+  uploadId: 700319

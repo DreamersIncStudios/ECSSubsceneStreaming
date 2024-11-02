@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1795f0d71a5eb045a2538ae48be58a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ramp/Ramp.mat
+  uploadId: 687100

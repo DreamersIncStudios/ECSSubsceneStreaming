@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e377c32cb2e5d024eaf7dec4ed17e1c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Runtime/Unit/UnitAuthoring.cs
+  uploadId: 700319

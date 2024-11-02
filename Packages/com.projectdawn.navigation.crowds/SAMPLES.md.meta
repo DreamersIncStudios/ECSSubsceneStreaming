@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f58c2c3fbd38a114196f9427f00df74b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/SAMPLES.md
+  uploadId: 687100

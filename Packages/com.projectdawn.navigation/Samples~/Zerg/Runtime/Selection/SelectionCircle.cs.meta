@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1d743fc921e545b48a6708ae030c1c4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Runtime/Selection/SelectionCircle.cs
+  uploadId: 700319

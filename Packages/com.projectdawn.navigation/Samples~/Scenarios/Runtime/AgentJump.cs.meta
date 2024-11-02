@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4aa4fedcca0ba9648a34d00a7c036cca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Scenarios/Runtime/AgentJump.cs
+  uploadId: 700319

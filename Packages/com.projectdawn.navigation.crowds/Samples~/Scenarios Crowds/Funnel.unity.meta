@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d7ea829b7804944289b1f89246ffae8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Funnel.unity
+  uploadId: 687100

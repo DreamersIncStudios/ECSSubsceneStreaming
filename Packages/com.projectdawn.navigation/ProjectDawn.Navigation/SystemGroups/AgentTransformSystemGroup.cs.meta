@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 35d587f27ca1bb942a0ad27a8e695c5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation/SystemGroups/AgentTransformSystemGroup.cs
+  uploadId: 700319

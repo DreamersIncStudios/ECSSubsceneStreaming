@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: df2ad671079a4ae419f6ec9994a66a78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Mass/Runtime/ToggleCollider.cs
+  uploadId: 700319

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ebd714958cc0c0447b11ed7e341c76ad
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ramp/Ramp.prefab
+  uploadId: 687100

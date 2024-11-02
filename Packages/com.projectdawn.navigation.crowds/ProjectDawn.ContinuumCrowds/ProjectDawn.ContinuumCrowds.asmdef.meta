@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6fcc1e56e4cd54a418e00fc005c4c296
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/ProjectDawn.ContinuumCrowds.asmdef
+  uploadId: 687100

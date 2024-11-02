@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3f569bb961e80964a8e2241a591a1e5b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Blob
+    Shadow/Blob Shadow.mat
+  uploadId: 687100

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f02d3a5a384c75409991386d154bf8e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Materials/MAT_BarracksTower_Var2.mat
+  uploadId: 687100

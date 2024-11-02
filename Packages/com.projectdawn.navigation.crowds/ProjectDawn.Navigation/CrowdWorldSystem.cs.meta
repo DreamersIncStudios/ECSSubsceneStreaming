@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e63318993367e054b959209775a7499c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdWorldSystem.cs
+  uploadId: 687100

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e04f36f8ebcfe3a47ba17ac95c464409
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation.Editor/ProjectDawn.Navigation.Editor.asmdef
+  uploadId: 700319

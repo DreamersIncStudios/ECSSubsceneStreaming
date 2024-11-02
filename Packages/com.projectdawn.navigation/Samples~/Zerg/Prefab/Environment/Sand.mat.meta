@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81c428b7b74876941979d921183426f9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/Environment/Sand.mat
+  uploadId: 700319

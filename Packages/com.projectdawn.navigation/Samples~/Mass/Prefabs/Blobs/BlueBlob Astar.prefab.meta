@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eeb551ff1d53fc045b344fd76ef99028
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Mass/Prefabs/Blobs/BlueBlob
+    Astar.prefab
+  uploadId: 700319

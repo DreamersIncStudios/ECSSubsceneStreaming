@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e44f85e6edb28a4b88caa39856c01d8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Board
+    Defense SubScene.unity
+  uploadId: 687100

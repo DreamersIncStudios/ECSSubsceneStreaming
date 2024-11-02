@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cb1c05fb291f6d0419037cf7859e55f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation.Hybrid/AgentDestinationAuthoring.cs
+  uploadId: 700319

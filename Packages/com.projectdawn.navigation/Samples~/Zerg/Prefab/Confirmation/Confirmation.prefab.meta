@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6e3cba9972f6d1745a34ced715b25f04
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/Confirmation/Confirmation.prefab
+  uploadId: 700319

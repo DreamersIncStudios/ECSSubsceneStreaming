@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 19f4f8ac2554efe4898dcd544fcfa1fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation/Separation/AgentSeparationSystem.cs
+  uploadId: 700319

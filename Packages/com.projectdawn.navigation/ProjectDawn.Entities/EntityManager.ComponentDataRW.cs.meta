@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cb788b82f35e28e4bb556a1ed501183f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Entities/EntityManager.ComponentDataRW.cs
+  uploadId: 700319

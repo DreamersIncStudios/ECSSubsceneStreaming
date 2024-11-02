@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c30095b8fb4897f4991b5841d3441ce8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Mass/Mass Astar.unity
+  uploadId: 700319

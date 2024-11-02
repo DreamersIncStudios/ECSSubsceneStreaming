@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a0df1d961a06d34a8c236a21f6c287b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Group.prefab
+  uploadId: 687100

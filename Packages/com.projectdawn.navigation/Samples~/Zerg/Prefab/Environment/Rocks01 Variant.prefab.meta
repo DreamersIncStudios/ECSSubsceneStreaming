@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37b305c808998ea429015de9e8cbbaf9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/Environment/Rocks01
+    Variant.prefab
+  uploadId: 700319

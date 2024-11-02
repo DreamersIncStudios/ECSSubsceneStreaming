@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce18f870a4d8939438372990d0435a54
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/CHANGELOG.md
+  uploadId: 687100

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 20ffa0d934fe2a943994bffd6f8c0a02
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation/SonarAvoid/AgentSonarAvoidSystem.cs
+  uploadId: 700319

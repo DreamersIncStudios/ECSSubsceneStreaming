@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e89c629541acb448b7ea06524341372
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/Environment/Cliff.prefab
+  uploadId: 700319

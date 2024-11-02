@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c10fbade4b8cb2743a16c52d318cc1a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: deaeac7523832c049a771fd54e49b15a, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/CrowdObstacleAuthoring.cs
+  uploadId: 687100

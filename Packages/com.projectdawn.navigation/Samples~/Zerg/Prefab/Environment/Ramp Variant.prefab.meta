@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5562505283da99141b56530165291593
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/Environment/Ramp
+    Variant.prefab
+  uploadId: 700319

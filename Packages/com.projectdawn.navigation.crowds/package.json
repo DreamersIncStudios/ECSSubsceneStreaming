@@ -1,0 +1,42 @@
+{
+  "name": "com.projectdawn.navigation.crowds",
+  "displayName": "Agents Navigation - Crowds",
+  "version": "1.0.2",
+  "unity": "2022.3",
+  "keywords": [
+    "ai",
+    "avoidance",
+    "agent",
+    "path",
+    "navigation",
+    "crowd"
+  ],
+  "dependencies": {
+    "com.projectdawn.navigation": "3.5.0",
+    "com.unity.ai.navigation": "1.1.4",
+    "com.unity.entities": "1.0.14",
+    "com.unity.modules.ui": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Scenarios Crowds",
+      "description": "Contains small isolated test scenes that showcases some common navigation behaviors (etc. circle, hallway, group ...).",
+      "path": "Samples~/Scenarios Crowds"
+    },
+    {
+      "displayName": "Board Defense",
+      "description": "Small subset of tower defense game.",
+      "path": "Samples~/Board Defense"
+    }
+  ],
+  "description": "Extension package of Agents Navigation that adds support for crowds and other features.",
+  "type": "tool",
+  "unityRelease": "10f1",
+  "author": {
+    "name": "Lukas Chodosevicius",
+    "email": "lukaschodosevicius@gmail.com",
+    "url": "https://assetstore.unity.com/publishers/62140"
+  },
+  "documentationUrl": "https://lukaschod.github.io/agents-navigation-docs/manual/index.html",
+  "changelogUrl": "https://lukaschod.github.io/agents-navigation-docs/changelog.html"
+}

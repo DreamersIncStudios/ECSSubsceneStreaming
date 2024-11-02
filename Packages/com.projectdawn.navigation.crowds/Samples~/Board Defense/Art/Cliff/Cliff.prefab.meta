@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa23af630d651fe408c897f804731ba6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Cliff/Cliff.prefab
+  uploadId: 687100

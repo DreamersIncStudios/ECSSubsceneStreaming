@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8e98492130b3dc74e92f784b5debf19f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Runtime/Selection/SelectionSystem.cs
+  uploadId: 700319

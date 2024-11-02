@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c590a78df977cbf44845fb4befff7fb7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/Environment/Dunes02
+    Variant.prefab
+  uploadId: 700319

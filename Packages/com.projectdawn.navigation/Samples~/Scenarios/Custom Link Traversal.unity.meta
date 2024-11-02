@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c65bf8ddd45c45544848fdb0f055d233
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Scenarios/Custom Link Traversal.unity
+  uploadId: 700319

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b7c8b79138bcfc49ba7ac08115f27fe
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Old/Circle
+    Target 1.unity
+  uploadId: 687100

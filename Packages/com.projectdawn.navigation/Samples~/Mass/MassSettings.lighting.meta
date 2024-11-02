@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b6b3de6376cc0848b621e756c4b3956
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Mass/MassSettings.lighting
+  uploadId: 700319

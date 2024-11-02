@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b2e36377344129a43af2336d976fd11e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation/Gizmos/GizmosField.shader
+  uploadId: 700319

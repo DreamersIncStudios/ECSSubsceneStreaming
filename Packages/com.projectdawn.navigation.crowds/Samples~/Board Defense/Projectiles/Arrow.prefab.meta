@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1eed9bd9a9d88454d951b74cfa546226
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Projectiles/Arrow.prefab
+  uploadId: 687100

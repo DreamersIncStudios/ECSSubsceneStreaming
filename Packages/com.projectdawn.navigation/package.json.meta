@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20f987fa252c6ab47ab15866b8e81c0e
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/package.json
+  uploadId: 700319

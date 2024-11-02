@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6269ce7e4b3aa440a7adee70f27456f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Buildings/Archer
+    Tower Red.prefab
+  uploadId: 687100

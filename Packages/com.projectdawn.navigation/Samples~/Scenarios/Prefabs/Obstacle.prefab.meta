@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1aa2ca615fc1e9c4d95994d92c1820ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Scenarios/Prefabs/Obstacle.prefab
+  uploadId: 700319

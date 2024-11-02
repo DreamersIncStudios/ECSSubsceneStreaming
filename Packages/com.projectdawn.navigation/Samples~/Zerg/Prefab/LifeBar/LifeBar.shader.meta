@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 34e23471bdbb8374390057653a919833
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/LifeBar/LifeBar.shader
+  uploadId: 700319

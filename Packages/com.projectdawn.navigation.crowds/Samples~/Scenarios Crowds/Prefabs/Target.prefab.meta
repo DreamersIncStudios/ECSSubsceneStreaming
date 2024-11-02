@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 49b1d680bffdf5945b7e81ecc64dd17d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Prefabs/Target.prefab
+  uploadId: 687100

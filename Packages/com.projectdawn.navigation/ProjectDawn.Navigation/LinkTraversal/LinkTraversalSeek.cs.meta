@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 36581eeaecd39a24aa4d1f4ef46b975c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation/LinkTraversal/LinkTraversalSeek.cs
+  uploadId: 700319

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 759b720b1b085144fbe49a52ab2687f8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Mass/Prefabs/Environment/Rocks02
+    Variant.prefab
+  uploadId: 700319

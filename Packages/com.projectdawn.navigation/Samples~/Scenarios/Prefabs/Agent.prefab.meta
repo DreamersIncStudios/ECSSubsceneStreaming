@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cdd1e81ac50d27c4583a44f8095ff917
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Scenarios/Prefabs/Agent.prefab
+  uploadId: 700319

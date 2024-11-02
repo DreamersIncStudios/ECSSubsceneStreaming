@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 087ce9e5e4eb46b43bbe5f17aef9fb83
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/Environment/Cactus
+    Variant.prefab
+  uploadId: 700319

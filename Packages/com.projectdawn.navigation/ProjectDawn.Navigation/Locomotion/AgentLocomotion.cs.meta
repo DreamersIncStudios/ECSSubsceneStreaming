@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a6a942cd6a971144bc4fc1d8d12a878
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation/Locomotion/AgentLocomotion.cs
+  uploadId: 700319

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fcc9b0e7acf0a74095d4bc70878127c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Scenarios/Escape Concave
+    Jail.unity
+  uploadId: 700319

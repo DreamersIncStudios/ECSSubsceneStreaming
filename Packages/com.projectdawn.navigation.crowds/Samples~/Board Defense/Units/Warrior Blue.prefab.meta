@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47315f6dbf37a2c46a3a9e9006fbeb4e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Warrior
+    Blue.prefab
+  uploadId: 687100

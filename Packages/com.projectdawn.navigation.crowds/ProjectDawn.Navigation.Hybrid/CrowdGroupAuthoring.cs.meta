@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a5ea7b3aaf73433488b7881d93ea58dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 7434feeff2bf9e242b0a9829fc4560c8, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/CrowdGroupAuthoring.cs
+  uploadId: 687100

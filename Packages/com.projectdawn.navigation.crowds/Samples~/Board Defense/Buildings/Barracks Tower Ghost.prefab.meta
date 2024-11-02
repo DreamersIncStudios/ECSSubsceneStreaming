@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9793132a9e694194698f65516d61e790
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Buildings/Barracks
+    Tower Ghost.prefab
+  uploadId: 687100

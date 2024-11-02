@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0020b08f04a64624091e317dd093a703
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/Units/Ultralisk.prefab
+  uploadId: 700319

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0f26b6509197019478f1f2ad648d5f38
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Scenarios/Runtime/Tank
+    Locomotion/TankLocomotionSystem.cs
+  uploadId: 700319

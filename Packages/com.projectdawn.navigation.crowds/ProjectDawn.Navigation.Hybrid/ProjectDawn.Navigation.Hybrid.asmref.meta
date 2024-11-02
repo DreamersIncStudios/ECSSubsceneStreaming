@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59cd807b4f479ad4ba692a4931729070
+AssemblyDefinitionReferenceImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/ProjectDawn.Navigation.Hybrid.asmref
+  uploadId: 687100

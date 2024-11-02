@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fda64d6836e3c674e96ea676dbeebbfe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Mass/Prefabs/Blobs/RedBlob
+    Astar.prefab
+  uploadId: 700319

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9542ab4ef07adcf4cb95f2c1167f545b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Projectile/ProjectileAuthoring.cs
+  uploadId: 687100

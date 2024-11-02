@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 045d38e43053c614ea7b97c41857706e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Archer
+    Tower Blue.prefab
+  uploadId: 687100

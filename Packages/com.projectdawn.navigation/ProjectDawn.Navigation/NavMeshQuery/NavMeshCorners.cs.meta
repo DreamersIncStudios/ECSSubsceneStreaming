@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e548f7f4e0f2cc84996194cca6fb455c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation/NavMeshQuery/NavMeshCorners.cs
+  uploadId: 700319

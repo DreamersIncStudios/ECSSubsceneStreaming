@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: db38e379395391040896e556615f3f7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation.Hybrid.Editor/AgentReciprocalAvoidEditor.cs
+  uploadId: 700319

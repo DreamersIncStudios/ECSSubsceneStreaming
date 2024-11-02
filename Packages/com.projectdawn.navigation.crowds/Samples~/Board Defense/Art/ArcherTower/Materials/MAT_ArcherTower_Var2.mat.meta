@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa348779cdea6f34d8cf974546ef56c8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Materials/MAT_ArcherTower_Var2.mat
+  uploadId: 687100

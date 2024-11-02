@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d84f1bb13f5a5b148a3260adfcce8002
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Mass/Prefabs/Blobs/PinkBlob
+    Astar.prefab
+  uploadId: 700319

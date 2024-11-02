@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 98104d61fd070334c8ae98a1dcdb53b5
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.ReciprocalAvoidance/ProjectDawn.ReciprocalAvoidance.asmdef
+  uploadId: 700319

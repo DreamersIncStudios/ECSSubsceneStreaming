@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13f5dbe8ce02c504a806eeb4f47aeac5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Model/Arrow.mesh
+  uploadId: 687100

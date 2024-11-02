@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 281035993b2885f4495941ff85a690fa
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/ProjectDawn.Navigation.Hybrid/ProjectDawn.Navigation.Hybrid.asmdef
+  uploadId: 700319

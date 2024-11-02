@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: c67729c85f4468944ac990e3033e29f7
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239233
+  packageName: Agents Navigation
+  packageVersion: 4.0.8
+  assetPath: Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/SelectionRectangle/SelectionRectangle.prefab
+  uploadId: 700319

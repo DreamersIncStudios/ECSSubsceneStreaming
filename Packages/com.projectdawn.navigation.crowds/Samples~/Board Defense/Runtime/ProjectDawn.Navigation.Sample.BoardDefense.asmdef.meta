@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3f35b582521f4194c9cc33a26136ed2d
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/ProjectDawn.Navigation.Sample.BoardDefense.asmdef
+  uploadId: 687100

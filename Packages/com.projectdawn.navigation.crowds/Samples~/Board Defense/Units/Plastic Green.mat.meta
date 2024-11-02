@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4afbea770884e4d4896c49f90dc702ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270598
+  packageName: Agents Navigation - Crowds
+  packageVersion: 1.0.1
+  assetPath: Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Plastic
+    Green.mat
+  uploadId: 687100
