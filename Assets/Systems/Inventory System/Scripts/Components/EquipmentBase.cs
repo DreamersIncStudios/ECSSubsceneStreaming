@@ -78,11 +78,11 @@ namespace Dreamers.InventorySystem.Base {
                 }
             }
 
-            if (Save.EquippedAbilites.Count != 0) {
-                foreach (AbilitySO ability in Save.EquippedAbilites) {
-                    ability.EquipAbility(entity);
-                }
-            }
+            // if (Save.EquippedAbilites.Count != 0) {
+            //     foreach (AbilitySO ability in Save.EquippedAbilites) {
+            //         ability.EquipAbility(entity);
+            //     }
+            // }
         }
 
     }
