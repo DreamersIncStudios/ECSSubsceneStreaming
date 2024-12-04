@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - CinemachineTarget
+  - Targets
+  - Camera
+  - CameraLevel0
+  - CameraLevel1
+  - CameraLevel2
+  - Volumes
+  - FreeCamVolume
   layers:
   - Default
   - TransparentFX
@@ -11,7 +19,11 @@ TagManager:
   - 
   - Water
   - UI
-  - Environment
+  - NPC
+  - Ground
+  - 
+  - 
+  - RaycastOnly
   - 
   - 
   - 
@@ -21,32 +33,29 @@ TagManager:
   - 
   - 
   - 
+  - Size0
+  - Size1
+  - Size2
+  - Size3
+  - Size4
+  - Size5
+  - SmallVFX
+  - MedVFX
+  - LargeVFX
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Temp
   m_SortingLayers:
   - name: Default
     uniqueID: 0
     locked: 0
   m_RenderingLayers:
   - Default
-  - Light Layer 1
-  - Light Layer 2
-  - Light Layer 3
-  - Light Layer 4
-  - Light Layer 5
-  - Light Layer 6
-  - Light Layer 7
+  - NoDecal
+  - Layer 2
+  - Layer 3
+  - Layer 4
+  - Layer 5
+  - Layer 6
+  - Layer 7
+  - Layer 8
