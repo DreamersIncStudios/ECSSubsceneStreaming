@@ -2,7 +2,6 @@ using Dreamers.InventorySystem;
 using Dreamers.InventorySystem.Base;
 using DreamersInc.CombatSystem;
 using DreamersInc.ComboSystem;
-using DreamersInc.InflunceMapSystem;
 using DreamersStudio.CameraControlSystem;
 using MotionSystem;
 using Stats;
@@ -51,13 +50,7 @@ namespace GameCode.Spawn
 
            
                 go.GetComponent<VFXControl>().Init(combo.Combo);
-                ecb.SetComponent(entity, new InfluenceComponent
-                {
-                    factionID = 0,
-                    Protection = 10,
-                    Threat = 10
-                }); 
-
+     
                 ecb.RemoveComponent<SpawnGO>(entity);
                 ecb.AddComponent<StorePrimaryWeapon>(entity);
 

@@ -6,7 +6,6 @@ using Dreamers.InventorySystem;
 using Dreamers.InventorySystem.Base;
 using DreamersInc.CombatSystem;
 using DreamersInc.ComboSystem;
-using DreamersInc.InflunceMapSystem;
 using DreamersStudio.CameraControlSystem;
 using Global.Component;
 using MotionSystem;
@@ -273,28 +272,7 @@ namespace DreamersInc.BestiarySystem
             this.classLevel = classLevel;
             if (entity == Entity.Null) return this;
             if (model == null) return this;
-            manager.AddComponentData(entity, new InfluenceComponent
-            {
-                factionID = factionID,
-                Protection = baseProtection,
-                Threat = baseThreat
-            });
-            manager.AddComponentData(entity, new AITarget()
-            {
-                FactionID = factionID,
-                NumOfEntityTargetingMe = 3,
-                CanBeTargetByPlayer = isPlayer,
-                Type = TargetType.Character,
-                //level = classLevel,
-                CenterOffset = new float3(0, 1, 0) //todo add value to SO
-            });
-
-            manager.AddComponentData(entity, new Perceptibility
-            {
-                movement = MovementStates.Standing_Still,
-                noiseState = NoiseState.Normal,
-                visibilityStates = VisibilityStates.Visible
-            });
+  
 
             return this;
         }
