@@ -131,6 +131,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Master
       objectReference: {fileID: 0}
+    - target: {fileID: 378663687047603429, guid: 3f19862a6bac2bf478a69862b3de43f2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3669577167556171884, guid: 3f19862a6bac2bf478a69862b3de43f2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3669577167556171884, guid: 3f19862a6bac2bf478a69862b3de43f2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4441042441039811061, guid: 3f19862a6bac2bf478a69862b3de43f2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
