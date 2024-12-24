@@ -38,4 +38,50 @@ namespace DreamersStudio.SubSceneStream
             }
         }
     }
+
+
+    public class LayerBaker : Baker<Transform> // Replace Transform with any GameObject that must be baked
+    {
+
+        private int GetSectionID(float3 position, int layer)
+        {
+            if(layer == 6)return 0;
+
+            var quadrantCellSize = layer switch
+            {
+                26 => 300,
+                27 => 150,
+                28 => 75,
+                _ => 300
+            };
+            var quadrantYMultiplier =  layer switch
+            {
+                26 => 10,
+                27 => 100,
+                28 => 1000,
+                _ => 1000
+            };
+        
+            return (int)(Mathf.FloorToInt(position.x / quadrantCellSize) 
+                         + (quadrantYMultiplier * Mathf.Floor(position.z / quadrantCellSize)));
+        }
+        public override void Bake(Transform authoring)
+        {
+            if(!authoring.gameObject.isStatic)return;
+            // Get the layer value from the GameObject
+            int layer = authoring.gameObject.layer;
+
+            // Attach it as a component to the ECS entity
+       
+            var entity = GetEntity(TransformUsageFlags.Renderable );
+       
+       
+            AddSharedComponent(entity, new SceneSection(){
+                SceneGUID = GetSceneGUID(),
+                Section = GetSectionID(authoring.transform.position,layer)
+            
+            });
+   
+        }
+    }
 }
