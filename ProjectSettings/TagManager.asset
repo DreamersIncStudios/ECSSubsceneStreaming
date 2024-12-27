@@ -39,9 +39,9 @@ TagManager:
   - Size3
   - Size4
   - Size5
-  - SmallVFX
-  - MedVFX
-  - LargeVFX
+  - Small
+  - Med
+  - Large
   - 
   - 
   - Temp

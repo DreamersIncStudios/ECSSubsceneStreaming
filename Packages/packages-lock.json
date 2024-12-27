@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "com.eflatun.scenereference": {
+      "version": "https://github.com/starikcetin/Eflatun.SceneReference.git#4.0.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.settings-manager": "2.0.1",
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+      },
+      "hash": "7dbcaf0327bcba279f2dcd07b824a693b1091beb"
+    },
     "com.kyrylokuzyk.primetween": {
       "version": "file:../Assets/Plugins/PrimeTween/internal/com.kyrylokuzyk.primetween.tgz",
       "depth": 0,
@@ -261,7 +271,7 @@
     },
     "com.unity.settings-manager": {
       "version": "2.0.1",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
